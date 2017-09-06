@@ -1,0 +1,23 @@
+% Sample : 20170001_NS_0m15s-0m16s_453-490.avi
+% Date : Thu Aug 24 03:15:12 2017
+% User : MMMIL
+% Serial number : 999
+% Total frame number : 38
+% Play time : 1.31034
+% FPS : 29
+% Time interval : 0.0354147
+% Resting Position Frame number : 1
+% Burst End Position Frame number : 23
+1,Hyoid Movement Duration,0.779123
+2,Hyoid Maximum Position (X),46.8246
+3,Hyoid Maximum Position (Y),32.4745
+4,Hyoid Maximum Position (XY),56.9836
+4.1,Hyoid Maximum position (X-axis),47.0009
+4.2,Hyoid Maximum position (Y-axis),34.2578
+5,Hyoid Maximum Displacement (Anterior),10.0185
+6,Hyoid Maximum Displacement (Superior),3.3412
+7,Hyoid Maximum Displacement (Hypotenuse),10.561
+8,Hyoid Average Velocity (Anterior),12.8587
+9,Hyoid Average Velocity (Superior),4.28841
+10,Hyoid Average Velocity (Hypotenuse),13.5549
+11,Hyoid Maximum Velocity = Max (Velocity_of_eachframe),56.9836
